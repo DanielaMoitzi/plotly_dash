@@ -1,19 +1,19 @@
-# Avocado prices dashaboard
-#### Analyze the ehavior of avocado prices
+# Avocado prices dashaboard example
+#### Analyze the behavior of avocado prices
 
-## Setup
-`python3 -m venv venvpython3 -m venv venv`
-`source venv/bin/activate`
-`pip install -r requirements.txt`
-`python3 app.py`
+Followed the tutorial by [realpython.com](https://realpython.com/python-dash/#what-is-dash).
 
-[Dash dashboard examples](https://dash.gallery/Portal/)
-## [Dash mantine components](https://pypi.org/project/dash-mantine-components/#quickstart)
+Here are some [dash dashboard examples](https://dash.gallery/Portal/).
+
+## Local setup
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 app.py
+```
+
+## Dash mantine components used in this project
+[Pip package](https://pypi.org/project/dash-mantine-components/#quickstart)\
 [Documentation](https://www.dash-mantine-components.com/)
 
-## [Dash styling themes](https://dash.plotly.com/dash-ag-grid/styling-themes)
-[dash-ag-grid](https://pypi.org/project/dash-ag-grid/)
-
-```
-pip install -r requirements.txt
-```
